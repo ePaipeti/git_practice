@@ -11,7 +11,7 @@ This dataset provides information about the year of recognition of worlds nation
 | Year      | year of recognition         | number   |
 | Continent | the continent of the nation | text     |
 
-### source
+### Source
 
 Persistent Identifier: doi:10.7910/DVN/U6Q4U8
 
